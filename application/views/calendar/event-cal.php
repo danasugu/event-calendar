@@ -93,6 +93,6 @@
                 echo ($cb%7 == 0 && $cb != $calendar['boxDisplay'])?'</section><section class="calendar__week">':''; 
             } 
             echo '</section>'; 
-        ?>
+        ?>  
     </section>
 </main>
